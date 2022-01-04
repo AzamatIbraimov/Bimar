@@ -1,6 +1,13 @@
 # Bimar App
 Mobile application for Bimar supermarket
- 
+
+# Description
+A friend of mine has a supermarket called Bimar. He had a lot of problems during the lockdown. People were scared of leaving their houses. But they have to.
+So my friend asked me to create a little app, which will help people to buy products from home.
+Using this app customers able to order something from home. 
+First of all I draw a Figma prototype:
+https://www.figma.com/file/h91VvEYkEYywrEZtOJCPTP/Bimar-%D1%81%D1%83%D0%BF%D0%B5%D1%80%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82?node-id=0%3A1
+Then I started implementing the whole android part.
 
 # Screenshots
 
